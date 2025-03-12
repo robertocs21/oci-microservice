@@ -1,0 +1,9 @@
+/Users/robertocastro/Desktop/oci-microservice/src/main/java/com/example/oci_microservice/OciMicroserviceApplication.java
+/Users/robertocastro/Desktop/oci-microservice/src/main/java/com/example/oci_microservice/controller/StudentController.java
+/Users/robertocastro/Desktop/oci-microservice/src/main/java/com/example/oci_microservice/controller/UserController.java
+/Users/robertocastro/Desktop/oci-microservice/src/main/java/com/example/oci_microservice/model/Student.java
+/Users/robertocastro/Desktop/oci-microservice/src/main/java/com/example/oci_microservice/model/User.java
+/Users/robertocastro/Desktop/oci-microservice/src/main/java/com/example/oci_microservice/repository/StudentRepository.java
+/Users/robertocastro/Desktop/oci-microservice/src/main/java/com/example/oci_microservice/repository/UserRepository.java
+/Users/robertocastro/Desktop/oci-microservice/src/main/java/com/example/oci_microservice/service/StudentService.java
+/Users/robertocastro/Desktop/oci-microservice/src/main/java/com/example/oci_microservice/service/UserService.java
